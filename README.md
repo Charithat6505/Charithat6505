@@ -1,6 +1,6 @@
 ## Hey there, I'm Charitha!
 
-Welcome to my repository hub, where curiosity meets clean code <br>
+Welcome to my tech hub, where curiosity meets clean code. <br>
 I’m a passionate tech explorer driven by curiosity and creativity, always looking to build meaningful tech that solves real-world problems.<br>
 
 ---
@@ -14,7 +14,7 @@ I’m a passionate tech explorer driven by curiosity and creativity, always look
 ### 🔧Areas of Expertise<br>
 
 🐍 Automating, integrating, and problem-solving with Python at the core.<br>
-⚡ Quick to adapt, faster to build—always learning new tools and stacks.<br>
+⚡ Thriving on rapid learning and adapting to evolving technologies.<br>
 🔍 Focused on efficient data structuring using modern database technologies.<br>
 
 ---
@@ -22,7 +22,7 @@ I’m a passionate tech explorer driven by curiosity and creativity, always look
 
 🧠 Solving logic puzzles and spotting patterns is my kind of fun.<br>
 🧭 Fueled by curiosity and a constant drive to explore and solve.<br>
-🔄 Cross-domain learning often leads to the most unexpected breakthroughs.<br>
+☕ My best ideas often flow best with a warm matcha and a wandering mind.<br>
 
 ---
 “Code with purpose. Build with curiosity. Grow without limits.”
