@@ -4,7 +4,7 @@ Welcome to my repository hub, where curiosity meets clean code <br>
 I’m a passionate tech explorer driven by curiosity and creativity, always looking to build meaningful tech that solves real-world problems.<br>
 
 ---
-### 🚀 My Tech Motivation<br>
+### 🚀 My Tech Motivation<br><hr>
 
 🤖 Fascinated by the potential of smart systems that learn, adapt, and grow.<br>
 🖥️ Building frontends that feel as good as they look—clean, responsive, and user-first.<br>
@@ -18,11 +18,11 @@ I’m a passionate tech explorer driven by curiosity and creativity, always look
 🔍 Focused on efficient data structuring using modern database technologies.<br>
 
 ---
-### About Me<br>
+### About Me!<br>
 
 🧠 Solving logic puzzles and spotting patterns is my kind of fun.<br>
 🧭 Fueled by curiosity and a constant drive to explore and solve.<br>
-🧠 Cross-domain learning often leads to the most unexpected breakthroughs.<br>
+🔄 Cross-domain learning often leads to the most unexpected breakthroughs.<br>
 
 ---
 “Code with purpose. Build with curiosity. Grow without limits.”
