@@ -5,7 +5,7 @@ I’m a passionate tech explorer driven by curiosity and creativity, always look
 
 ---
 ### 🚀 My Tech Motivation<br>
-<hr style="height:0.5px; border:none; background-color:#ddd;">
+<hr style="height:0.1px; border:none; background-color:#ddd;">
 
 🤖 Fascinated by the potential of smart systems that learn, adapt, and grow.<br>
 🖥️ Building frontends that feel as good as they look—clean, responsive, and user-first.<br>
