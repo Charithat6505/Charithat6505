@@ -4,7 +4,7 @@ Welcome to my repository hub, where curiosity meets clean code <br>
 I’m a passionate tech explorer driven by curiosity and creativity, always looking to build meaningful tech that solves real-world problems.<br>
 
 ---
-### 🚀 My Tech Motivation<br>
+### 🚀 My Tech Motivation
 <hr style="height:0.3px; border:none; background-color:#e0e0e0;">
 
 🤖 Fascinated by the potential of smart systems that learn, adapt, and grow.<br>
